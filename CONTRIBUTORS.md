@@ -22,3 +22,4 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
 
+-**Caroline Law** (GitHub: callaw777). My favorite movie is Wake Up Dead Man: A Knives Out Mystery.
