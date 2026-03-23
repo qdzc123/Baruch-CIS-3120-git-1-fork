@@ -21,4 +21,4 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
-
+Jason Chen (Github: JasonC4001): My favorite movie is Lone Survivor.
