@@ -21,4 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
+- **Sonica Rai** (GitHub: SonikaRai258): My favorite movie is Bridgerton
+
+
 
