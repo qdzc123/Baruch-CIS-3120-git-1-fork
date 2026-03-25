@@ -24,6 +24,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 <!-- Students: Add your entries below this line! -->
 - Farhan Mohsin (GitHub: farhanmohsinfahim): My favorite movie is Interstellar
 
+**Neyha Ata** (GitHub: NeyhaAta): My favorite movie is The Conjuring. 
+
 **Octave Ekewou** (GitHub: Octaveekewou): My favorite movie  is John Wick!
 - **Sonica Rai** (GitHub: SonikaRai258): My favorite movie is Bridgerton
 
