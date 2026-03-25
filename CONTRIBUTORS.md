@@ -22,19 +22,13 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries: 
 <!-- Students: Add your entries below this line! -->
+Jason Chen (Github: JasonC4001): My favorite movie is Lone Survivor.
 - Farhan Mohsin (GitHub: farhanmohsinfahim): My favorite movie is Interstellar
-
 **Neyha Ata** (GitHub: NeyhaAta): My favorite movie is The Conjuring. 
-
 **Octave Ekewou** (GitHub: Octaveekewou): My favorite movie  is John Wick!
 - **Sonica Rai** (GitHub: SonikaRai258): My favorite movie is Bridgerton
-
-
-
 - **Bacilio Lema** (GitHub: bacilioo): My favorite move is Sinners!
-
 - **Ibrahim Kidwai** (GitHub: ibrahkidwai-cyber): My favorite movie is Spider-Man 3
-
 **Kamronbek Ortikov** (GitHub: kama4444): My favorite movie is Inception
 -**Richard Burton** (GitHub: richardburton1991-del): My favorite movie is Hero
 - **Elias Brouk** (GitHub: eliasbrouk0): My favorite
